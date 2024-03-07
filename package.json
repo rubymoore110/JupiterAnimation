@@ -1,0 +1,26 @@
+{
+"name": "jupiteranimationrubymoore",
+"version": "1.0.0",
+"description": "This project demonstrates a simple animation effect of Jupiter orbiting around its path using HTML, CSS, and JavaScript. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/rubymoore110/JupiterAnimation.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "rubymoore110",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
